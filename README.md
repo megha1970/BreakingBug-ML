@@ -114,7 +114,22 @@ Model Performance
 | Random Forest           | 0.6288                    | 0.6739        |
 | XGBoost Classifier      | 0.6263                    | 0.6413        |
 | Support Vector Machine  | 0.5877                    | 0.5870        |
-| Naive Bayes Classifier  | 0.5780                    | 0.5435        |
+| Naive Bayes Classifier  | 0.5780   <img width="1369" alt="Screenshot 2024-08-03 at 7 19 28 PM" src="https://github.com/user-attachments/assets/fb83b408-8702-4505-8aaa-839e2a2c3f60">
+<img width="1371" alt="Screenshot 2024-08-03 at 7 20 47 PM" src="https://github.com/user-attachments/assets/49a9bc7f-ea3e-4412-bf4c-59dc7eec2a5f">
+<img width="1195" alt="Screenshot 2024-08-03 at 7 24 31 PM" src="https://github.com/user-attachments/assets/59385399-4c36-4305-a398-bdd00024e555">
+<img width="1356" alt="Screenshot 2024-08-03 at 7 32 14 PM" src="https://github.com/user-attachments/assets/e89a67dc-ba81-4e0e-8bbf-c4143f82c172">
+<img width="742" alt="Screenshot 2024-08-03 at 7 38 37 PM" src="https://github.com/user-attachments/assets/2bf19801-0f74-4cde-a78a-494eaf7031a9">
+<img width="1372" alt="Screenshot 2024-08-03 at 7 41 20 PM" src="https://github.com/user-attachments/assets/f6d475ad-1c07-4b4c-98ed-1435e5b6e5c4">
+<img width="742" alt="Screenshot 2024-08-03 at 7 38 37 PM" src="https://github.com/user-attachments/assets/73d454f2-a167-4159-90a8-14cc648f495c">
+<img width="1356" alt="Screenshot 2024-08-03 at 7 32 14 PM" src="https://github.com/user-attachments/assets/41c8c8da-cf99-4626-901e-00373b2dad08">
+<img width="1094" alt="Screenshot 2024-08-03 at 7 29 38 PM" src="https://github.com/user-attachments/assets/168ed472-6248-441a-8651-73f0d669301c">
+<img width="961" alt="Screenshot 2024-08-03 at 7 27 36 PM" src="https://github.com/user-attachments/assets/0f280fcb-ce30-4085-adf8-c7f2f2460c7f">
+<img width="1371" alt="Screenshot 2024-08-03 at 7 20 47 PM" src="https://github.com/user-attachments/assets/dedd10f6-d08f-4bf8-80de-e0b1effcc697">
+<img width="1369" alt="Screenshot 2024-08-03 at 7 19 28 PM" src="https://github.com/user-attachments/assets/4760caa3-cee9-4897-b120-f8d781262939">
+<img width="1043" alt="Screenshot 2024-08-03 at 7 17 55 PM" src="https://github.com/user-attachments/assets/6598f2a9-4390-4f16-b87b-6888e17c54a7">
+<img width="1352" alt="Screenshot 2024-08-03 at 7 16 26 PM" src="https://github.com/user-attachments/assets/48085398-bc96-4d34-8953-84d6fde06094">
+<img width="1372" alt="Screenshot 2024-08-03 at 7 41 20 PM" src="https://github.com/user-attachments/assets/bfbbe6fe-601b-47fb-9e11-62d95776a714">
+                 | 0.5435        |
 
 Best Model: XGBoost Classifier  
 Best Model Cross-Validation Accuracy: 0.6263  
